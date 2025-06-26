@@ -3,7 +3,9 @@ Container Advantages
 <table>
   <tr>
     <th>Container Advantages</th>
-    <th>Image Reference</th>
+    <td>
+     <img src="02-Container-Advantages.png" alt="Container Advantages" width="300" height="300">
+      </td>
   </tr>
   <tr>
     <td>
@@ -20,9 +22,6 @@ Container Advantages
         <li><strong>Quick replications and elastically scale up and down</strong><br>
         Containers can be easily replicated and scaled horizontally or vertically using container orchestration tools.</li>
       </ol>
-    </td>
-    <td rowspan="1" style="vertical-align: middle; text-align: center;">
-      <img src="02-Container-Advantages.png" alt="Container Advantages" width="300" height="300">
     </td>
   </tr>
 </table>
