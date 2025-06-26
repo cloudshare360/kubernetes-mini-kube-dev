@@ -16,3 +16,6 @@ git config --global user.name "$GIT_USER_NAME"
 echo "Git global config updated:"
 echo "User Name: $GIT_USER_NAME"
 echo "User Email: $GIT_USER_EMAIL"
+
+git config --global user.email "CloudShare360"
+git config --global user.name "cloud.share360@gmail.com"
